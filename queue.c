@@ -13,4 +13,3 @@ void _queue(stack_t **stack, unsigned int line_number)
 	(void) line_number;
 	stack_queue = 'q';
 }
-© 2022 GitHub, Inc.
